@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/Levels/OpenWorldDino-.umap",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/MWLandscapeAutoMaterial/Materials/MASTER/MTL_MWAM_AutoMaterial_MASTER.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/MWLandscapeAutoMaterial/Materials/Landscape/MTL_MWAM_Landscape_IslandExample.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/MWLandscapeAutoMaterial/Maps/LandscapeAutoMaterial_Island_Example.umap",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/OceanMaterials/Water_FarMesh.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/OceanMaterials/Water_Material_Ocean.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/DinoBP.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/DinoABP.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/DinoBSP_1D.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/Characters/Mannequins/Anims/Unarmed/MM_Idle.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/source/Diabolus_Rex_Animated_PhysicsAsset.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/source/Material_001_Base_Color.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/source/NormalMap.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/source/Diabolus_Rex_Animated_Skeleton.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/source/Material_001.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/source/Diabolus_Rex_Animated.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/source/Diabolus_Rex_Animated_Anim.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/textures/NormalMap.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/textures/Material_001_Base_Color.uasset"
+			]
+		}
+	]
+}

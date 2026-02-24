@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/WenzinOL/Documents/GitHub/open-World-Map-Dino/Content/_Custom/DinoBP.uasset",
+				"C:/Users/WenzinOL/Documents/GitHub/open-World-Map-Dino/Content/_Custom/BSP1D_Drex.uasset",
+				"C:/Users/WenzinOL/Documents/GitHub/open-World-Map-Dino/Content/_Custom/ABP_Drex.uasset",
+				"C:/Users/WenzinOL/Documents/GitHub/open-World-Map-Dino/Content/_Custom/textures/Material_001_Base_Color_Mat.uasset",
+				"C:/Users/WenzinOL/Documents/GitHub/open-World-Map-Dino/Content/Levels/OpenWorldDino-.umap",
 				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/Levels/OpenWorldDino-.umap",
 				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/MWLandscapeAutoMaterial/Materials/MASTER/MTL_MWAM_AutoMaterial_MASTER.uasset",
 				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/MWLandscapeAutoMaterial/Materials/Landscape/MTL_MWAM_Landscape_IslandExample.uasset",

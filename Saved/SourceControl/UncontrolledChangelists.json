@@ -8,7 +8,6 @@
 				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/Levels/OpenWorldDino-.umap",
 				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/MWLandscapeAutoMaterial/Materials/MASTER/MTL_MWAM_AutoMaterial_MASTER.uasset",
 				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/MWLandscapeAutoMaterial/Materials/Landscape/MTL_MWAM_Landscape_IslandExample.uasset",
-				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/MWLandscapeAutoMaterial/Maps/LandscapeAutoMaterial_Island_Example.umap",
 				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/OceanMaterials/Water_FarMesh.uasset",
 				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/OceanMaterials/Water_Material_Ocean.uasset",
 				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/DinoBP.uasset",
@@ -24,7 +23,13 @@
 				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/source/Diabolus_Rex_Animated.uasset",
 				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/source/Diabolus_Rex_Animated_Anim.uasset",
 				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/textures/NormalMap.uasset",
-				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/textures/Material_001_Base_Color.uasset"
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/textures/Material_001_Base_Color.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/BSP1D_rex.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/ABP_rex.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/source/BSP1D_Drex.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/BSP1D_Drex.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/_Custom/ABP_Drex.uasset",
+				"C:/Users/4029019/Documents/Unreal Projects/MyProject2/Content/MWLandscapeAutoMaterial/Maps/LandscapeAutoMaterial_Island_Example.umap"
 			]
 		}
 	]
